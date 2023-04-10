@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @VladislavBatura
 - Привет, я @VladislavBatura, или просто Влад
-- 👀 I’m interested in .NET technologies and C# in general. Coding in ASP.NET Core.
-- Я интересуюсь технологией .NET и С# в общем. Пишу на ASP.NET Core
-- 🌱 I’m currently learning ASP.NET Core and Angular
-- В данный момент я осваиваю ASP.NET Core и Angular
+- 👀 I’m interested in .NET technologies and C# in general.
+- Я интересуюсь технологией .NET и С# в общем.
+- 🌱 I’m currently learning ASP.NET Core and React
+- В данный момент я осваиваю ASP.NET Core и React
 - 📫 You can reach me through my email or telegram. My email - batura.vlad@gmail.com. My telegram - @Aviat0r or https://t.me/Aviat0r
 - Вы можете связаться со мной через почту или телеграм. Моя почта - batura.vlad@gmail.com, мой телеграм - @Aviat0r или https://t.me/Aviat0r
 - You can take a look at my CV here: https://github.com/VladislavBatura/VladislavBatura/blob/main/BaturaVladislavASPNET_CV.pdf
